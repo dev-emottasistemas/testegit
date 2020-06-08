@@ -16,6 +16,7 @@
 *.gch
 *.pch
 *.hrb
+*.map
 
 # Libraries
 *.lib
