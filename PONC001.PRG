@@ -1,3 +1,3 @@
 Function PONC001()
-MsgStop("teste renato")
+MsgStop("teste renato pokay")
 Return
