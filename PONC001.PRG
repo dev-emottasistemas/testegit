@@ -1,3 +1,3 @@
 Function PONC001()
-MsgStop("teste renato pokay")
+Mensagem("Renato Pocay 09/06/2020 14:35")
 Return
