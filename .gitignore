@@ -24,6 +24,12 @@ _*.*
 ./dev/sistema/rpo/*.*
 ./release/*.*
 ./dev/sistema/log/*.*
+./documentacao
+./fwh
+./hb30
+./help
+./release
+./xharbour
 
 -- arquivos
 ./dev/sistema/bin/dbg_pontorpo.exe
