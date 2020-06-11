@@ -1,56 +1,68 @@
-#emotta - master
-*.hrb
-*.ppo
-output/
-output_dbg/
-
-# Prerequisites
-*.d
-
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
-
-# Linker output
-*.ilk
-*.map
-*.exp
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
-
-# Shared objects (inc. Windows DLLs)
-*.so
-*.so.*
-*.dylib
-
-# Executables
+-- extensões- copia
+_*.*
+*.emt
 *.out
-*.app
-*.i*86
-*.x86_64
-*.hex
-
-# Debug files
-*.dSYM/
-*.su
-*.idb
-*.pdb
-
-# Kernel Module Compile Results
-*.mod*
+*.hrb
+*.map
+*.md5
+*.xtag
+*.log
+*.ppo
+*.cfv
 *.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
+*.emg
+*.rpo
+./dev/sistema/source/lib/output/*.*
+./dev/sistema/source/lib/prpsislib/output/*.*
+./dev/sistema/source/output/*.*
+./dev/sistema/source/output_dbg/*.*
+./dev/sistema/source/pontorpo/output/*.*
+./dev/sistema/source/propontorpo/output/*.*
+./dev/sistema/source/parse/*.*
+./dev/sistema/source/emottarpo/output/*.*
+./dev/bin_rpo/*.*
+./dev/sistema/rpo/*.*
+./release/*.*
+./dev/sistema/log/*.*
+./documentacao/*.*
+./fwh/*.*
+./hb30/*.*
+./help/*.*
+./release/*.*
+./xharbour/*.*
+
+-- arquivos
+./dev/sistema/bin/dbg_pontorpo.exe
+./dev/sistema/bin/emottarpo.exe
+./dev/sistema/bin/fivedbu.ini
+./dev/sistema/bin/libera.exe
+./dev/sistema/bin/long_qry.dbf
+./dev/sistema/bin/long_qry.dbt
+./dev/sistema/bin/pontorpo.exe
+./dev/sistema/bin/propontopvs.exe
+./dev/sistema/bin/propontorpo.exe
+./dev/sistema/bin/taplica.ini
+./dev/sistema/bin/trep.exe
+./dev/sistema/parse/parse.bat
+./dev/sistema/source/dbg_pontopro_open_xbb.bat
+./dev/sistema/source/dbg_pontorpo.exe.xbp
+./dev/sistema/source/dbg_sislib.lib.xbp
+./dev/sistema/source/emottarpo/emottarpo.exe
+./dev/sistema/source/lib/dbg_sislib.lib
+./dev/sistema/source/lib/prpsislib/prpsislib.lib
+./dev/sistema/source/lib/prpsislib/xbuild.windows.ini
+./dev/sistema/source/lib/sislib.lib
+./dev/sistema/source/libera/lib2010.exe
+./dev/sistema/source/libera/libera.exe
+./dev/sistema/source/parse.bat
+./dev/sistema/source/pic/repon/trep.exe
+./dev/sistema/source/pic/repon/tret.txt
+./dev/sistema/source/ponto/gerenciamento/emtgerponto.exe
+./dev/sistema/source/ponto/gerenciamento/emtgerponto.res
+./dev/sistema/source/ponto/gerenciamento/xbuild.windows.ini
+./dev/sistema/source/pontorpo/dbg_pontorpo.exe
+./dev/sistema/source/pontorpo/pontorpo.exe
+./dev/sistema/source/pontorpo/pontorpo.res
+./dev/sistema/source/propontorpo/propontorpo.exe
+./dev/sistema/source/propontorpo/propontorpo.res
+./dev/sistema/source/propontorpo/xbuild.windows.ini
